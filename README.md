@@ -3,7 +3,7 @@ Hantuuuu
 <h2 align="center"><b>MENAGE: <a href="https://telegram.dog/bismillahselaluadaa">HANTU ░ 🎸</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/ilham178/Hanttuuuu/edit/main/README.md"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" alt="GABUT BOT" width=400px></a>
+   <a href="https://github.com/ilham178/Hanttuuuu"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" alt="GABUT BOT" width=400px></a>
    <br>
    <br>
 </p>
@@ -25,7 +25,7 @@ The Support group can be reached out to at [CTH](https://t.me/gabutttttttttttttt
 News channel as at [SUPPORT CHANNEL](https://t.me/gabutttttttttttttttttttttttttt) 
 
 <p align="center">
-    <a href="https://t.me/gabutttttttttttttttttttttttttt"><img src="https://t.me/LordUserbot_Group/242106" width=220px></a></p>
+    <a href="https://t.me/gabutttttttttttttttttttttttttt"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" width=220px></a></p>
 
 
 ## How to setup/deploy.
@@ -47,7 +47,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ilham178/Hanttuuuu/edit/main/README.md"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/ilham178/Hanttuuuu"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 </details>  
@@ -190,7 +190,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 For starters click on this button 
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ilham178/Hanttuuuu/edit/main/README.md"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/ilham178/Hanttuuuu"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 </details>  
