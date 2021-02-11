@@ -47,7 +47,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ilham178/Hanttuuuu"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://git.heroku.com/bot-akulah-666.git=https://github.com/ilham178/Hanttuuuu"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 </details>  
@@ -190,7 +190,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 For starters click on this button 
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ilham178/Hanttuuuu"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://git.heroku.com/bot-akulah-666.git=https://github.com/ilham178/Hanttuuuu"><img src="https://telegra.ph/file/2966872921fb2be6a0c03.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 </details>  
