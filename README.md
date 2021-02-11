@@ -12,8 +12,10 @@ Hantuuuu
 <br>
 <br>
 
-
-
+Creating app... done, ⬢ thawing-inlet-61413
+https://git.heroku.com/bot-akulah-666.git=https://github.com/ilham178/Hanttuuuu | 
+heroku git:remote -a thawing-inlet-61413
+set git remote heroku to https://git.heroku.com/bot-akulah-666.git=https://github.com/ilham178/Hanttuuuu
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
 Originally a SaitamaRobot fork, ILHAM MANSIEZZ 🎸 evolved further and was built to be more robust. 
